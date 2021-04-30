@@ -1,4 +1,5 @@
-package com.pages;
+\
+/*package com.pages;
 import java.io.IOException;
 
 import org.openqa.selenium.Keys;
@@ -39,7 +40,7 @@ public class Homepages extends TestBase{
 	
 	
 	
-	/*Homepages phome = PageFactory.initElements(driver, Homepages.class);
+	Homepages phome = PageFactory.initElements(driver, Homepages.class);
 	TestBase re = PageFactory.initElements(driver, TestBase.class);      
 	
 	public Homepages(WebDriver driver) {  
@@ -82,7 +83,7 @@ public class Homepages extends TestBase{
 	  System.out.println("search button clicked user find a flight ");
 	  
   }
-	 */
+	 
 	
 	@Test
 	public void Login() throws IOException
@@ -94,3 +95,4 @@ public class Homepages extends TestBase{
 		
 	}
 }
+*/
